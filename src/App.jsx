@@ -25,7 +25,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex items-center justify-center text-slate-100">
       <div className="w-full max-w-lg rounded-2xl bg-slate-800/80 backdrop-blur shadow-2xl p-10 border border-slate-700">
-        <h1 className="text-3xl font-bold text-center mb-6">Hello, world!</h1>
+        <h1 className="text-3xl font-bold text-center mb-6">Hello, 2 world!</h1>
         <p className="text-center text-slate-300 mb-8">{message}</p>
         <div className="flex justify-center">
           <button
